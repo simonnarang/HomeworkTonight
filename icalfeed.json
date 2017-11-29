@@ -4,7 +4,7 @@
       "VERSION": "2.0",
       "PRODID": "Schoolwires Calendar",
       "METHOD": "PUBLISH",
-      "VEVENT": [
+      "VEVENT": 
         {
           "UID": "50737",
           "DTSTAMP": "20171122T001913Z",
@@ -789,7 +789,7 @@
           "LAST-MODIFIED": "20170803T201718Z",
           "TRANSP": "OPAQUE"
         }
-      ]
+      
     }
   ]
 }
