@@ -1,5 +1,4 @@
-{
-  "VCALENDAR": [
+
     {
       "VERSION": "2.0",
       "PRODID": "Schoolwires Calendar",
@@ -791,5 +790,4 @@
         }
       
     }
-  ]
-}
+
